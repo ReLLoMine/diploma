@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Noto Mono",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "main"
+  ],
+  "baseFontSizeAction": true
+}

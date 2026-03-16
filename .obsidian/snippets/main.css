@@ -1,0 +1,24 @@
+
+.file-width800px {
+    --file-line-width: 800px
+}
+
+.file-width900px {
+    --file-line-width: 900px
+}
+
+.file-width1000px {
+    --file-line-width: 1000px
+}
+
+.file-width1100px {
+    --file-line-width: 1100px
+}
+
+.file-width1200px {
+    --file-line-width: 1200px
+}
+
+.markdown-preview-view {
+    font-family: var(--font-text);
+}

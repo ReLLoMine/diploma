@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "fee8d43e92dafcd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b8dd22cdecfaa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701feb6a41adc29e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Материалы/1685.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1685"
+            }
+          },
+          {
+            "id": "d148c16255b66061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отчеты/Проектная практика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проектная практика"
+            }
+          },
+          {
+            "id": "e9d9ecbeae86db9f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Материалы/Нормоконтроль.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Нормоконтроль"
+            }
+          },
+          {
+            "id": "bcc11822f2c1b71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Главы ВКР/2. ПРОЕКТНЫЙ РАЗДЕЛ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. ПРОЕКТНЫЙ РАЗДЕЛ"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5147883130489a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7051aa6999ea2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87697ba5686270c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2c6392ec0b0807e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ccde774be98952a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "6be8ad470c95df2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d698102df2d06d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89938db159d31d34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Анализ/Анализ аналогов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Анализ аналогов"
+            }
+          },
+          {
+            "id": "33dfb0fe3b5939aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Анализ/Анализ аналогов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Анализ аналогов"
+            }
+          },
+          {
+            "id": "caefc7ae9a0139aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d552bf3fd770509e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Главы ВКР/2. ПРОЕКТНЫЙ РАЗДЕЛ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. ПРОЕКТНЫЙ РАЗДЕЛ"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bcc11822f2c1b71c",
+  "lastOpenFiles": [
+    "Отчеты/Главы проектной практики/Проектный раздел.md",
+    "Главы ВКР/2. ПРОЕКТНЫЙ РАЗДЕЛ.md",
+    "Главы ВКР/2. ПРОЕКТНЫЙ РАЗДЕЛ.docx",
+    "Материалы/МУ по подготовке и защите ВКР бакалавра.pdf",
+    "Отчеты/Проектная практика.md",
+    "Отчеты/Главы проектной практики/Исследовательский раздел.md",
+    "Отчеты/Главы проектной практики/Введение.md",
+    "Отчеты/Главы проектной практики/Сокращения.md",
+    "Отчеты/Главы проектной практики/Ресурсы.md",
+    "Материалы/Нормоконтроль.pdf",
+    "Главы ВКР/0. Введение.md",
+    "Отчеты/Главы проектной практики",
+    "Анализ/Анализ технических средств.md",
+    "Анализ/Анализ предметной области.md",
+    "Анализ/Анализ аналогов.md",
+    "Материалы/2_5296566103357559956.pdf",
+    "Главы ВКР/1. ИССЛЕДОВАТЕЛЬСКИЙ РАЗДЕЛ.md",
+    "Материалы/1685.pdf",
+    "Материалы/ВКР (6).docx",
+    "Отчеты/Проектная практика.docx",
+    "Материалы/Комплект_на_Проектную_практику_ЛещенкоВР_РДКИМП_БЕЗ_ТИТУЛА.pdf",
+    "Материалы/ГОСТ-7.32-2017.pdf",
+    "().md",
+    "a.md",
+    "copilot/copilot-conversations/9.11_and_9.8,_which_is_bigger@20260301_150936.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md"
+  ]
+}
